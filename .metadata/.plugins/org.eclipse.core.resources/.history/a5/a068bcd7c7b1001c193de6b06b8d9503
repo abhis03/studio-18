@@ -1,0 +1,5 @@
+package com.mca.studio18.service;
+
+public class PaymentService {
+
+}
